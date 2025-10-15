@@ -10,3 +10,6 @@ https://docs.google.com/document/d/1ce8Sbks0WKya3yNjO5d3KzGoBotaj2AXTdiA2EoQ73U/
 
 
 https://github.com/Loyd-894562/ipt2025
+
+
+https://docs.google.com/document/d/1d7pQhjx53nb3tNJ461g0mH6K217HfuFaLnE4f3l_kew/mobilebasic
