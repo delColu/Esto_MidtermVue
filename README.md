@@ -5,6 +5,10 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
 
 
+https://docs.google.com/document/d/1XsdtjExz5VAcJylA3NnsFsqHh_4ThuJg5MHjhxSzUP0/mobilebasic
+
+
+
 https://docs.google.com/document/d/1ce8Sbks0WKya3yNjO5d3KzGoBotaj2AXTdiA2EoQ73U/mobilebasic
 
 
